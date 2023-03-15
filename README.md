@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML, CSS, Javascript and related frameworks to Web development
 - 💞️ I’m looking to collaborate on web3 projects, web security projects and  blockchain projects.
 - 📫 Reach me on Twitter: @IshkoAbaquita
-- - 📫 Reach me on LinkedIn: [@IshkoAbaquita](https://www.linkedin.com/in/ishko-abaquita/)
+- 📫 Reach me on LinkedIn: [@IshkoAbaquita](https://www.linkedin.com/in/ishko-abaquita/)
 
 <!---
 IAbaquita/IAbaquita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
